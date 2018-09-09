@@ -1,0 +1,5 @@
+total coal = 123
+total cost = 12313
+total pollution = 123
+total production = 45
+production per hour = 2
