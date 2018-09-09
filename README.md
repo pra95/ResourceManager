@@ -2,7 +2,7 @@
 Resource Manager is a strategy game developed in Python using PyGame library.
 
 ### To start the game follow the steps:
-1. Install Python3.4 from <python.org>
+1. Install Python3.4 from <https://www.python.org/>
 2. Install pygame from <https://bitbucket.org/pygame/pygame/downloads>	
 3. Select the file based on 32 bit or 64 bit for _py3.4.msi_
 4. Start the game by executing the file Main.py from the source_files folder using command `python Main.py`
